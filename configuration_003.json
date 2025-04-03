@@ -1,0 +1,105 @@
+{
+    "study_programs": {
+        "INF": 6,
+        "ET": 5,
+        "ES": 1,
+        "MB": 2,
+        "MT": 3,
+        "WIW": 3
+    },
+    "exam_weeks": {
+        "Week 1": [
+            "MB",
+            "MT",
+            "ES",
+            "ET",
+            "WIW",
+            "INF"
+        ],
+        "Week 2": [
+            "MB",
+            "ET",
+            "INF",
+            "MT",
+            "WIW",
+            "ES"
+        ],
+        "Week 3": [
+            "WIW",
+            "INF",
+            "ES"
+        ],
+        "Week 4": [
+            "WIW",
+            "ET",
+            "ES",
+            "MB",
+            "MT",
+            "INF"
+        ],
+        "Week 5": [
+            "MB",
+            "WIW",
+            "ET",
+            "INF"
+        ],
+        "Week 6": [
+            "MT",
+            "ES",
+            "ET",
+            "INF"
+        ],
+        "Week 7": [
+            "ET",
+            "WIW",
+            "MB",
+            "INF",
+            "ES",
+            "MT"
+        ],
+        "Week 8": [
+            "MT",
+            "INF",
+            "ES"
+        ]
+    },
+    "time_slots": {
+        "Slot A": {
+            "time": "8:00-10:00",
+            "popularity": 5
+        },
+        "Slot B": {
+            "time": "10:30-12:30",
+            "popularity": 6
+        },
+        "Slot C": {
+            "time": "13:00-15:00",
+            "popularity": 4
+        },
+        "Slot D": {
+            "time": "15:30-17:30",
+            "popularity": 1
+        }
+    },
+    "days": {
+        "Monday": {
+            "popularity": 6
+        },
+        "Tuesday": {
+            "popularity": 5
+        },
+        "Wednesday": {
+            "popularity": 6
+        },
+        "Thursday": {
+            "popularity": 5
+        },
+        "Friday": {
+            "popularity": 3
+        }
+    },
+    "room_popularity": {
+        "parallel": 7,
+        "sequential": 5
+    }
+}
